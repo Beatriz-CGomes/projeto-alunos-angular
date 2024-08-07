@@ -1,0 +1,14 @@
+.card {
+    padding: 24px;
+}
+
+.card .primary{
+    background: rgb(179, 179, 233);
+    border: 1px solid yellow;
+    border-radius: 12px;
+}
+
+.card .secondary{
+    background: black;
+    border-radius: 16px;
+}

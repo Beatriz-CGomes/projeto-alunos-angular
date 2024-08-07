@@ -1,0 +1,22 @@
+.spacer {
+    flex: 1 1 auto;
+  }
+
+.app-header button{
+    margin: 0 8px;
+}
+
+
+.app-header .imagem-logo{
+    width: 6%;
+  }
+
+.app-header .mat-toolbar{
+    background-color: rgb(3, 3, 185);
+    color: white;
+    padding:  0 206px;   
+  }
+
+  .app-header .mat-mdc-outlined-button:not(:disabled){
+    border-color: white;
+  }
